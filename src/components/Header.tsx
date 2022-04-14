@@ -63,7 +63,6 @@ export function Header() {
 				  <Text>Matheus Elyasha</Text>
 				  <Text color="gray.300" fontSize="small">matheuselyasha@gmail.com</Text>
 			  </Box>
-
 			  <Avatar size="md" name="Matheus Elyasha" src="https://github.com/elyasha.png" />
 		  </Flex>
 	  </Flex>
